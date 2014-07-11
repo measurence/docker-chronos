@@ -20,4 +20,4 @@ Starting the container:
 
 (See Chronos's [documentation](https://github.com/airbnb/chronos/blob/master/README.md) for available arguments)
 
-Once the container is up, visit `http://<host>:8080/` and confirm Chronos is running.
+Once the container is up, visit `http://<host>:8090/` and confirm Chronos is running.
